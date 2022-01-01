@@ -9,15 +9,15 @@
 
 - 🤝 I’m looking for help with [Promise Tracker]([will attach])
 
-- 👨‍💻 All of my projects are available at [[coming soon]]([coming soon])
+- 👨‍💻 All of my projects are available at [[coming soon]]
 
-- 📝 I regularly write articles on [[coming soon]]([coming soon])
+- 📝 I regularly write articles on [[coming soon]]
 
 - 💬 Ask me about **my future ambitions!**
 
 - 📫 How to reach me **ocile6@gmail.com, DavidGondwe@burmanu.ca**
 
-- 📄 Know about my experiences [[coming soon]]([coming soon])
+- 📄 Know about my experiences [[coming soon]]
 
 - ⚡ Fun fact **Medicine is a work in progress.**
 
