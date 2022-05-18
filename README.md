@@ -1,23 +1,11 @@
 <h1 align="center">Hi 👋, I'm David Gondwe</h1>
 <h3 align="center">A biology undergraduate interest in the application and creation of systems</h3>
 
-- 🔭 I’m currently working on [Voting Aid Application]([will attach])
+- 🔭 I’m currently working on my [Voting Aid Application]
 
 - 🌱 I’m currently learning **Python, Java**
 
-- 👯 I’m looking to collaborate on [Anki Addons]([will attach])
-
-- 🤝 I’m looking for help with [Promise Tracker]([will attach])
-
-- 👨‍💻 All of my projects are available at [[coming soon]]
-
-- 📝 I regularly write articles on [[coming soon]]
-
-- 💬 Ask me about **my future ambitions!**
-
-- 📫 How to reach me **ocile6@gmail.com, DavidGondwe@burmanu.ca**
-
-- 📄 Know about my experiences [[coming soon]]
+- 📫 How to reach me **ocile6@gmail.com, DavidGondwe@students.llu.edu**
 
 - ⚡ Fun fact **Medicine is a work in progress.**
 
