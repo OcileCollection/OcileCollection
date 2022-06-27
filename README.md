@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a [Voting Aid Application].
+- 🔭 I’m currently working on a [BetterVote].
 
 - 🌱 I’m currently learning **Java, Python**.
 
